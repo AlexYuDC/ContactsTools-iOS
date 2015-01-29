@@ -10,4 +10,14 @@
 
 @interface NSString (ChineseCharater)
 
+- (BOOL)isAllChinesseCharactor;
+
+- (NSString *)getPinyin;
+- (NSString *)getPinyinWithoutBlankSpace;
+- (NSString *)getPinyinWithoutBlankSpaceEspeciallyForLastName;
+
+- (BOOL)containsUnlikeNameString;
+- (BOOL)hasUnlikeLastNamePrefix;
+- (BOOL)isLikeAName;
+
 @end

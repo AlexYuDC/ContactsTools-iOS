@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CEDCB35-ADB5-495F-8593-5B3591FC9668</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContactsTools</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>45BD987AA7DCC2442E2AA793D2A2992F2DEC6344</key>
+		<string>https://github.com/AlexYuDC/ContactsTools-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ContactsTools/ContactsTools.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>45BD987AA7DCC2442E2AA793D2A2992F2DEC6344</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlexYuDC/ContactsTools-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>45BD987AA7DCC2442E2AA793D2A2992F2DEC6344</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>45BD987AA7DCC2442E2AA793D2A2992F2DEC6344</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ContactsTools-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

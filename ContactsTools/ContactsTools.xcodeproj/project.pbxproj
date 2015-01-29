@@ -14,6 +14,7 @@
 		FA7D0DBE1A7A5C0600A1F14E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0DBD1A7A5C0600A1F14E /* Images.xcassets */; };
 		FA7D0DC11A7A5C0600A1F14E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0DBF1A7A5C0600A1F14E /* LaunchScreen.xib */; };
 		FA7D0DCD1A7A5C0600A1F14E /* ContactsToolsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7D0DCC1A7A5C0600A1F14E /* ContactsToolsTests.m */; };
+		FA7D0DD81A7A5C3C00A1F14E /* NSString+ChineseCharater.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7D0DD71A7A5C3C00A1F14E /* NSString+ChineseCharater.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		FA7D0DC61A7A5C0600A1F14E /* ContactsToolsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContactsToolsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA7D0DCB1A7A5C0600A1F14E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA7D0DCC1A7A5C0600A1F14E /* ContactsToolsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ContactsToolsTests.m; sourceTree = "<group>"; };
+		FA7D0DD61A7A5C3C00A1F14E /* NSString+ChineseCharater.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+ChineseCharater.h"; sourceTree = "<group>"; };
+		FA7D0DD71A7A5C3C00A1F14E /* NSString+ChineseCharater.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+ChineseCharater.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				FA7D0DB51A7A5C0600A1F14E /* AppDelegate.m */,
 				FA7D0DB71A7A5C0600A1F14E /* ViewController.h */,
 				FA7D0DB81A7A5C0600A1F14E /* ViewController.m */,
+				FA7D0DD61A7A5C3C00A1F14E /* NSString+ChineseCharater.h */,
+				FA7D0DD71A7A5C3C00A1F14E /* NSString+ChineseCharater.m */,
 				FA7D0DBA1A7A5C0600A1F14E /* Main.storyboard */,
 				FA7D0DBD1A7A5C0600A1F14E /* Images.xcassets */,
 				FA7D0DBF1A7A5C0600A1F14E /* LaunchScreen.xib */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA7D0DB91A7A5C0600A1F14E /* ViewController.m in Sources */,
+				FA7D0DD81A7A5C3C00A1F14E /* NSString+ChineseCharater.m in Sources */,
 				FA7D0DB61A7A5C0600A1F14E /* AppDelegate.m in Sources */,
 				FA7D0DB31A7A5C0600A1F14E /* main.m in Sources */,
 			);
